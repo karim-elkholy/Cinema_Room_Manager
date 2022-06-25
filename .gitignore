@@ -1,0 +1,8 @@
+/build/
+/course-remote-info.yaml
+/course-info.yaml
+/.idea/
+/.gradle/
+/*/task/build/
+/*/lesson-info.yaml
+/*/task/out/
